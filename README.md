@@ -7,3 +7,5 @@ Each of the upward and downward prediction models was elaborately manufactured a
   In short, progressing by utilizing CNN, LSTM, CNN-LSTM, Sliding-window CNN-LSTM model , Random Forest Model
 
 Dataset is not provided here because we are in progress
+
+`model.py` is our main model.
